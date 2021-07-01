@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://zhanyuejj.github.io/</loc>
+    <lastmod>2021-07-01T23:44:07+08:00</lastmod>
+  </url><url>
+    <loc>https://zhanyuejj.github.io/post/</loc>
+    <lastmod>2021-07-01T23:44:07+08:00</lastmod>
+  </url><url>
+    <loc>https://zhanyuejj.github.io/post/%E6%B5%A9%E7%84%B6%E6%B0%94/</loc>
+    <lastmod>2021-07-01T23:44:07+08:00</lastmod>
+  </url><url>
+    <loc>https://zhanyuejj.github.io/post/test/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhanyuejj.github.io/post/test/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhanyuejj.github.io/categories/</loc>
+  </url><url>
+    <loc>https://zhanyuejj.github.io/tags/</loc>
+  </url>
+</urlset>
